@@ -2,7 +2,7 @@
 layout: post
 date: 2022-10-28
 title: "Linux Kernel Internals - w1 - linked-list-quiz"
-tags: [blog, linked-list, draft]
+tags: [blog, linked-list]
 draft: false
 ---
 
