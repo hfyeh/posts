@@ -1,11 +1,16 @@
 ---
 layout: post
 date: 2022-10-28
-title: "Linux Kernel Internals - w1 - quiz 2"
+title: "Linux 核心設計 L01 quiz1 (2020q1)"
 tags: [blog, linked-list, draft]
 draft: true
 ---
-## [Quiz 2](httpshackmd.io@sysproglinux2020-quiz1)
+
+This is the homework of [jserv](https://github.com/jserv)'s [Linux Kernel Internals](https://wiki.csie.ncku.edu.tw/linux/schedule).
+
+Reference: [Linked list quiz 2](https://hackmd.io/@sysprog/linux2020-quiz1)
+
+<!--more-->
 
 考慮一個單向 linked list:
 
@@ -127,3 +132,6 @@ The logic is just like question 4, so the answer is (b).
 
 3. The revised version is [here](https://github.com/hfyeh/c-review/blob/master/linked_list_quiz2_circular_doubly_linked_list.c).
 
+4. 
+
+5. The iterative version is ...

@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2022-10-28
-title: "Linux Kernel Internals - w1 - linked-list-quiz"
+title: "Linux 核心設計 L01 quiz1 (2018q1)"
 tags: [blog, linked-list]
 draft: false
 ---
 
 This is the homework of [jserv](https://github.com/jserv)'s [Linux Kernel Internals](https://wiki.csie.ncku.edu.tw/linux/schedule).
 
-Reference: [Quiz 1](https://hackmd.io/@sysprog/linked-list-quiz)
+Reference: [Linked list quiz 1](https://hackmd.io/@sysprog/linked-list-quiz)
 
 <!--more-->
 
