@@ -2,7 +2,7 @@
 layout: post
 title: "《網球的內心遊戲》：運動場域的學習心法是放鬆的專注"
 date: 2017-03-19
-tags: [reading]
+tags: [blog, note/book, reading]
 ---
 
 讀者：[葉學舫](https://www.facebook.com/sharefun010407)

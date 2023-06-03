@@ -2,7 +2,7 @@
 layout: post
 title: "轉職 Rails 工程師的一年後"
 date: 2017-03-19
-tags: []
+tags: [blog]
 ---
 
 ![](https://imgur.com/m1TNik4.png)

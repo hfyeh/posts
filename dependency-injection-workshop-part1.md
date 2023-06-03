@@ -2,7 +2,7 @@
 layout: post
 title: "Dependency Injection and AOP 介紹與工作坊心得（上）"
 date: 2020-08-03
-tags: [dependency-injection, draft]
+tags: [blog, dependency-injection, draft]
 draft: true
 ---
 

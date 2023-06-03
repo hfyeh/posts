@@ -2,7 +2,7 @@
 layout: post
 title: "A Note on Cache Memory"
 date: 2021-03-02
-tags: [cache, draft]
+tags: [blog, cache, draft]
 draft: true
 ---
 
