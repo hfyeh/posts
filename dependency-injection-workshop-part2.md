@@ -2,8 +2,9 @@
 layout: post
 title: "Dependency Injection and AOP 介紹與工作坊心得（下）"
 date: 2020-08-05
-tags: [blog, dependency-injection, draft]
+tags: [dependency-injection]
 draft: true
+category: article
 ---
 
 去年九月參加 91 的 [DI 與 AOP 進階實戰](https://dotblogs.com.tw/hatelove/2018/11/14/201905-dependency-injection-and-aspect-oriented-programming) ，直到最近才有機會完整複習。該課程早期梯次只有支援 C#，因為平時工作不會用到 C#，我刻意改用 Python 做練習，並且在練習完畢後，對公司同事做分享。

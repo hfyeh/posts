@@ -2,7 +2,8 @@
 layout: post
 title: "聖誕書盒"
 date: 2021-12-31
-tags: [blog]
+tags: []
+category: article
 ---
 
 初看[楊斯棓](https://www.facebook.com/YangSzuPang)醫師發文說要贈送書盒，我心裡想：『書盒是什麼東西？』該文章附圖是一個個的紙箱，不知裡面是什麼，也沒再探究。幾天後，陸續看到其他收到「書盒」的人開箱分享，才驚覺原來送的是書啊！

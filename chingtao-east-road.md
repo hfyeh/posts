@@ -2,7 +2,8 @@
 layout: post
 title: "《青島東路三號：我的百年之憶及台灣的荒謬年代》：白色恐怖受難者的記憶歷史"
 date: 2017-04-05
-tags: [blog, note/book, reading]
+tags: []
+category: article
 ---
 
 讀者：[葉學舫](https://www.facebook.com/sharefun010407)

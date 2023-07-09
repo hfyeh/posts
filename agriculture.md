@@ -2,7 +2,8 @@
 layout: post
 title: "農事體驗"
 date: 2022-12-01
-tags: [blog]
+tags: []
+category: article
 ---
 
 ![](https://i.imgur.com/YCLDeuc.jpg)

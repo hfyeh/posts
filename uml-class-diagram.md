@@ -2,7 +2,10 @@
 layout: post
 title: "A Note on UML Class Diagram"
 date: 2022-03-30
-tags: [blog, note/cheat-sheet, uml]
+tags: [uml]
+category: cheat-sheet
+draft: false
+category: article
 ---
 
 這是一篇學習 UML class diagram 的簡記。為保持文意清晰，用到術語時盡可能使用原文表示。

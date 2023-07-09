@@ -2,7 +2,8 @@
 layout: post
 title: "偕友觀潮於旭海"
 date: 2008-01-01
-tags: [blog, poem]
+tags: [poem]
+category: article
 ---
 
 百里寒冬風割面，遊心一夜到雲巔。

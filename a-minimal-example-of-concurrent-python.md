@@ -2,7 +2,8 @@
 layout: post
 title: "A Minimal Example of Concurrent Python"
 date: 2022-04-22
-tags: [blog, python, gil]
+tags: [python, gil]
+category: article
 ---
 
 The CPython interpreter usese [GIL](https://wiki.python.org/moin/GlobalInterpreterLock) (global interpreter lock), to prevent threads from executing Python bytecodes at once.

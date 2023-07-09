@@ -2,7 +2,8 @@
 layout: post
 title: "《此心不沉：陳纂地與二戰末期台灣人醫生》：二二八事件中台灣武裝起義的人物"
 date: 2017-02-28
-tags: [blog, note/book, reading]
+tags: [reading]
+category: article
 ---
 
 讀者：[葉學舫](https://www.facebook.com/sharefun010407)
