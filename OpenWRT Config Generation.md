@@ -9,6 +9,8 @@ draft: false
 ---
 In OpenWRT, all config files under `/etc/config` are generated dynamically. There are scripts in `/etc/uci-defaults` to construct this configuration.
 
+<!--more-->
+
 The scripts in `/etc/uci-defaults` are executed on first boot and then removed, but we could find them in the image. For example, under imagebuilder root, `build_dir/target-aarch64_cortex-a72_musl/root-bcm27xx/etc/uci-defaults/` are the rootfs of bcm27xx targets.
 
 ```shell
