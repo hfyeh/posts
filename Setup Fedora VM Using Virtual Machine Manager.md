@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ""
+title: "Setup Fedora VM Using Virtual Machine Manager"
 aliases: 
 date: 2023-10-06
 tags: 
 draft: false
 ---
-I'm using Ubuntu for my everyday work. Recently, I have some tasks relating SELinux. Unfortunately, SELinux is by default not enabled on Ubuntu, and the ecosystem is not as full as it in Fedora.
+I'm using Ubuntu for my everyday work. Recently, I have some tasks relating SELinux. Unfortunately, SELinux is by default not enabled in Ubuntu, and the ecosystem is not as full as it in Fedora.
 
 In this article, I wrote down the steps to setup an Fedora VM via [Virtual Maching Manager](https://virt-manager.org/), and using `ssh` to login Fedora.
 
@@ -43,7 +43,6 @@ Follow the steps below to select the Fedora ISO we just downloaded.
 Set proper memory and CPU and disk size.
 
 ![](https://i.imgur.com/AmmHwdF.png)
-
 
 ![](https://i.imgur.com/EtfWp6A.png)
 

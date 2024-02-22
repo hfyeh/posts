@@ -2,10 +2,10 @@
 layout: post
 title: "讀《大局》，兼憶金邊台商與我的緣份"
 date: 2023-05-30
-tags: [reading]
+tags:
+  - reading
 category: article
 draft: false
-author: 黃文局
 ---
 
 讀者：[葉學舫](https://www.facebook.com/sharefun010407)
