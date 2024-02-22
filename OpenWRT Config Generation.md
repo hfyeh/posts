@@ -9,9 +9,11 @@ draft: false
 ---
 In OpenWRT, all config files under `/etc/config` are generated dynamically. There are scripts in `/etc/uci-defaults` to construct this configuration.
 
+The scripts in `/etc/uci-defaults` are executed on first boot and then removed.
+
 <!--more-->
 
-The scripts in `/etc/uci-defaults` are executed on first boot and then removed, but we could find them in the image. For example, under imagebuilder root, `build_dir/target-aarch64_cortex-a72_musl/root-bcm27xx/etc/uci-defaults/` are the rootfs of bcm27xx targets.
+Although the scripts are removed on first boot, we could still find them in the image. For example, if you're using an imagebuilder to build the image, once you built, under imagebuilder root, `build_dir/target-aarch64_cortex-a72_musl/root-bcm27xx/` are the rootfs of bcm27xx targets, and the sub-directory `/etc/uci-defaults` is what we are looking for.
 
 ```shell
 10_migrate-shadow        14_migrate-dhcp-release  50-dnsmasq-migrate-resolv-conf-auto.sh
